@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-26T12:32:34.280Z</updated>
+  <updated>2023-02-26T13:16:56.447Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/"/>
     <id>http://example.com/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/</id>
     <published>2023-02-26T12:29:04.000Z</published>
-    <updated>2023-02-26T12:32:34.280Z</updated>
+    <updated>2023-02-26T13:16:56.447Z</updated>
     
-    <content type="html"><![CDATA[<ul><li><p>Typora的下载与激活在知乎，博客园等各类平台均可搜索到相关内容，但步骤都太过复杂，且有的还要求各种公众号关注，于是我自己上淘宝买了一个链接并且做一个尽量简易的激活教程。</p></li><li><p>首先，打开下载链接，按教程一步步安装并激活，下载激活过程中需要注意的细节是：</p></li><li><p>win11下载时需要关掉实时保护选项，否则会导致一个文件被自动删除，操作如图</p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/2.jpg"> </p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/3.png"></p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/4.png"></p></li><li><p>把以上需要关掉的选项关掉后，再根据教程把需要移动到Typora目录的文件移动后，就能激活Typora了</p></li><li><p>不过当我们重新开启以上关掉的选项后，之前已经移动的文件又会被自动删除，Typora就会显示未激活，所以我们需要把Typora所在目录的文件夹放入到排除项中，这样就算把实时保护再次打开，Typora也能正常激活并使用了，操作如下：</p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/5.png"></p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/6.png"></p></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li><p>Typora的下载与激活在知乎，博客园等各类平台均可搜索到相关内容，但步骤都太过复杂，且有的还要求各种公众号关注，于是我自己上淘宝买了一个链接并且做一个尽量简易的激活教程。</p></li><li><p>首先，打开<a class="link" href="https://flowus.cn/share/b06712da-7386-410b-957e-a77b9d1f70a0">下载链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，按教程一步步安装并激活，下载激活过程中需要注意的细节是：</p></li><li><p>win11下载时需要关掉实时保护选项，否则会导致一个文件被自动删除，操作如图</p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/2.jpg"> </p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/3.png"></p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/4.png"></p></li><li><p>把以上需要关掉的选项关掉后，再根据教程把需要移动到Typora目录的文件移动后，就能激活Typora了</p></li><li><p>不过当我们重新开启以上关掉的选项后，之前已经移动的文件又会被自动删除，Typora就会显示未激活，所以我们需要把Typora所在目录的文件夹放入到排除项中，这样就算把实时保护再次打开，Typora也能正常激活并使用了，操作如下：</p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/5.png"></p></li><li><p><img lazyload src="/images/loading.svg" data-src="/2023/02/26/Typora%E7%9A%84%E6%BF%80%E6%B4%BB/6.png"></p></li></ul>]]></content>
     
     
       
@@ -31,7 +31,7 @@
     <summary type="html">&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Typora的下载与激活在知乎，博客园等各类平台均可搜索到相关内容，但步骤都太过复杂，且有的还要求各种公众号关注，于是我自己上淘宝买了一个链接并且做一个尽量简易的激活教程。&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;首先，打开下载链接，按教程一步步安装并激活，下载</summary>
+&lt;li&gt;&lt;p&gt;首先，打开&lt;a class=&quot;link&quot; hre</summary>
       
     
     
